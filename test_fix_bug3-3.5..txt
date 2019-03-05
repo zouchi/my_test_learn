@@ -1,0 +1,20 @@
+
+
+log:
+
+v1.0.0
+
+	today i will do func!!!
+
+	test ok!!!
+	
+v1.0.1
+
+	today i will do func  again!!!
+
+	my test ok!!!	
+	
+v1.0.2
+
+	release version 
+	
